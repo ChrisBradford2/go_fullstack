@@ -10,5 +10,8 @@
     "backend"
   ],
   "author": "Nicolas Barbarisi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
